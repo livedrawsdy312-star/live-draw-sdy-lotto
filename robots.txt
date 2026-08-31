@@ -1,4 +1,1 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://livesdytercepat.online/sitemap.xml
+User-agent: * Allow: / Sitemap: https://karsiyakaboschservisi.org/sitemap.xml
