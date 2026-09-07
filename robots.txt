@@ -1,1 +1,1 @@
-User-agent: * Allow: / Sitemap: https://karsiyakaboschservisi.org/sitemap.xml
+User-agent: * Allow: / Sitemap: https://livesdylotto.lol/sitemap.xml
