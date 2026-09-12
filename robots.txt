@@ -1,1 +1,1 @@
-User-agent: * Allow: / Sitemap: https://livesdylotto.lol/sitemap.xml
+User-agent: * Allow: / Sitemap: https://sdyedu1.shop/sitemap.xml
